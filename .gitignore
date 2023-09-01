@@ -1,0 +1,7 @@
+node_modules
+# Keep environment variables out of version control
+.env
+prisma/dev-364backup.db
+prisma/dev-full.db
+prisma/dev.db
+data
